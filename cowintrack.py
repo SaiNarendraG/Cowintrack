@@ -54,7 +54,7 @@ while True:
 
     if counter:
         print('Centres searched:', counter)
-        # print("No Vaccination slot available!")
+        
 
 
     dt = datetime.now() + timedelta(minutes=3)
